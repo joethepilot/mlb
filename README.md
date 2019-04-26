@@ -6,7 +6,7 @@ content in the proper directory for your web server.
 
 Alternatively, a node.js web server is included, which is set to run on port 3000.
 
-## Install node.js
+## Install node.js (commands shown are for linux)
 * sudo apt-get update
 * sudo apt-get install nodejs
 * sudo apt-get install npm
