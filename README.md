@@ -6,10 +6,11 @@ content in the proper directory for your web server.
 
 Alternatively, a node.js web server is included, which is set to run on port 3000.
 
-## Start node.js web server
+## Install dependencies and start node.js web server
 
+> npm install
 > node app.js
 
-## Load web page
+## Load the web page
 
 > http://localhost:3000/
