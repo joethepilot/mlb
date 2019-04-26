@@ -1,3 +1,5 @@
+// Minimal node.js web server for serving static content on port 3000.
+
 var express = require('express');
 var app = express();
 var path = require('path');
