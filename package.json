@@ -1,0 +1,24 @@
+{
+  "name": "mlb",
+  "version": "1.0.0",
+  "description": "Viewer for 2018 MLB Stats",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node app.js",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joethepilot/mlb.git"
+  },
+  "author": "Joe Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joethepilot/mlb/issues"
+  },
+  "homepage": "https://github.com/joethepilot/mlb#readme"
+}
